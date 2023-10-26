@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320.000mm" height="310.000mm" viewBox="27.000000 -959.000000 320.000000 310.000000">
+    <path transform="matrix(1,0,0,-1,187,-804)" style="stroke:#000000;stroke-width:0.05mm;fill:none" d="M160,-145C160,-150.522858,155.522858,-155,150,-155L-150,-155C-155.522842,-155,-160,-150.522858,-160,-145L-160,145C-160,150.522827,-155.522842,155,-150,155L150,155C155.522858,155,160,150.522827,160,145L160,-145z"/>
+    <ellipse transform="matrix(1,0,0,-1,186.999969,-897.828369)" style="stroke:#000000;stroke-width:0.05mm;fill:none" rx="12.000001" ry="11.999983" cx="0" cy="0"/>
+    <ellipse transform="matrix(0.309017,0.951057,0.951057,-0.309017,285.656982,-826.149841)" style="stroke:#000000;stroke-width:0.05mm;fill:none" rx="12.000001" ry="11.999983" cx="0" cy="0"/>
+    <ellipse transform="matrix(-0.809017,0.587785,0.587785,0.809017,247.973358,-710.171509)" style="stroke:#000000;stroke-width:0.05mm;fill:none" rx="12.000001" ry="11.999983" cx="0" cy="0"/>
+    <ellipse transform="matrix(-0.809017,-0.587785,-0.587785,0.809017,126.02655,-710.17157)" style="stroke:#000000;stroke-width:0.05mm;fill:none" rx="12.000001" ry="11.999983" cx="0" cy="0"/>
+    <ellipse transform="matrix(0.309017,-0.951056,-0.951056,-0.309017,88.342957,-826.149841)" style="stroke:#000000;stroke-width:0.05mm;fill:none" rx="12.000001" ry="11.999983" cx="0" cy="0"/>
+</svg>
