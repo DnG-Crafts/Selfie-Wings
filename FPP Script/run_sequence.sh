@@ -12,7 +12,7 @@ SPID=$(ps -edaf | grep ${BASE} | grep -v grep | grep -v eventScript | grep -v " 
 if [ -n "${SPID}" ] 
 then
        kill ${SPID}
-	   fpp -C "Effects Stop"
+       fpp -C "Effects Stop"
 fi
 /opt/fpp/src/fpp -G ${RGPIO},Output
 /opt/fpp/src/fpp -G ${LGPIO},Output
