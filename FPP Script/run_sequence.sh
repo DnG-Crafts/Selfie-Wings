@@ -2,7 +2,7 @@
 
 RGPIO="17"     # relay gpio
 LGPIO="27"     # led gpio
-RUNTIME="120"  # seconds to keep relay on if no arg passed
+RUNTIME="30"  # seconds to keep relay on if no arg passed
 
 # ----------------------------- do not edit below this line -----------------------------
 
