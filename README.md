@@ -1,6 +1,19 @@
 # Selfie Wings
 
+Files used in the <b>Just Winging IT</b> video
 
+[![https://www.youtube.com/watch?v=xJS9KCVTZYw](https://img.youtube.com/vi/xJS9KCVTZYw/0.jpg)](https://www.youtube.com/watch?v=xJS9KCVTZYw)
+
+https://www.youtube.com/watch?v=xJS9KCVTZYw<br>
+
+
+
+
+Add this line to the confix.txt file on the raspberry pi sd card
+```
+# set pin low for led controller
+gpio=27=op,dl
+```
 
 
 ## Parts used in project
