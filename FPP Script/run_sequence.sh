@@ -20,14 +20,14 @@ if [ -n "${SPID}" ]; then
     kill ${SPID}
     fpp -C "Effects Stop"
 fi
-/opt/fpp/src/fpp -G ${RGPIO},Output
-/opt/fpp/src/fpp -G ${LGPIO},Output
-/opt/fpp/src/fpp -g ${RGPIO},Output,1
-/opt/fpp/src/fpp -g ${LGPIO},Output,1
+fpp -G ${RGPIO},Output
+fpp -G ${LGPIO},Output
+fpp -g ${RGPIO},Output,1
+fpp -g ${LGPIO},Output,1
 fpp -C "All Lights Off"
 fpp -C "FSEQ Effect Start" "$1"
 coproc read -t "${RT}" && wait "$!" || true
 fpp -C "Effects Stop"
 fpp -C "All Lights Off"
-/opt/fpp/src/fpp -g ${RGPIO},Output,0
-/opt/fpp/src/fpp -g ${LGPIO},Output,0
+fpp -g ${RGPIO},Output,0
+fpp -g ${LGPIO},Output,0
