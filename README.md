@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=xJS9KCVTZYw<br>
 
 
 
-Add this line to the confix.txt file on the raspberry pi sd card
+Add this line to the config.txt file on the raspberry pi sd card
 ```
 # set pin low for led controller
 gpio=27=op,dl
