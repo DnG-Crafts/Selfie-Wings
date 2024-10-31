@@ -1,10 +1,8 @@
 # Selfie Wings Pi-Cap V2
 
-Files used in the <b>Just Winging IT</b> video
+[![https://www.youtube.com/watch?v=OZ0Rm8wgQw4](https://img.youtube.com/vi/OZ0Rm8wgQw4/0.jpg)](https://www.youtube.com/watch?v=OZ0Rm8wgQw4)
 
-[![https://www.youtube.com/watch?v=xJS9KCVTZYw](https://img.youtube.com/vi/xJS9KCVTZYw/0.jpg)](https://www.youtube.com/watch?v=xJS9KCVTZYw)
-
-https://www.youtube.com/watch?v=xJS9KCVTZYw<br>
+https://www.youtube.com/watch?v=OZ0Rm8wgQw4<br>
 
 
 ## GPIO used by Pi-Cap
