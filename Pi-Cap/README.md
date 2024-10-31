@@ -24,7 +24,7 @@ DMX: P1-8  GPIO 14<br>
 ## GPIO used for wing project
 
 Relay: P1-11 GPIO 17<br>
-Button P1-7 Led: GPIO 4<br>
+Button Leds: P1-7 GPIO 4<br>
 Red Button: P1-35 GPIO 19<br>
 Green Button: P1-36 GPIO 16<br>
 Blue Button: P1-32 GPIO 12<br>
