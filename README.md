@@ -3,7 +3,7 @@
 There are 2 ways this projected was achieved.
 one way is to use a level shifter and control the leds directly from the pi.<br>
 
-<a href=https://github.com/DnG-Crafts/Selfie-Wings/tree/main/Pi-Cap>Pi-Hat>Pi-Hat</a>
+<a href=https://github.com/DnG-Crafts/Selfie-Wings/tree/main/Pi-Hat>Pi-Hat</a>
  
 the other way is to use a cape.<br>
 
