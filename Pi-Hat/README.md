@@ -38,14 +38,3 @@ gpio=27=op,dl
 <a href=https://www.jaycar.com.au/duinotech-arduino-compatible-logic-level-converter-module/p/XC4486>Logic Level Converter Module</a>
 
 <a href=https://www.jaycar.com.au/rj45-connectors-ip67-rated-socket/p/PS1451>RJ45 Connectors IP67</a>
-
-
-
-
-## Pictures
-
-<img src=https://github.com/DnG-Crafts/Selfie-Wings/blob/main/1.jpg><br>
-<img src=https://github.com/DnG-Crafts/Selfie-Wings/blob/main/2.jpg><br>
-<img src=https://github.com/DnG-Crafts/Selfie-Wings/blob/main/3.jpg><br>
-<img src=https://github.com/DnG-Crafts/Selfie-Wings/blob/main/4.jpg><br>
-<img src=https://github.com/DnG-Crafts/Selfie-Wings/blob/main/5.jpg><br>
