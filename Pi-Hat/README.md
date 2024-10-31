@@ -1,7 +1,5 @@
 # Selfie Wings Pi-Hat
 
-Files used in the <b>Just Winging IT</b> video
-
 [![https://www.youtube.com/watch?v=xJS9KCVTZYw](https://img.youtube.com/vi/xJS9KCVTZYw/0.jpg)](https://www.youtube.com/watch?v=xJS9KCVTZYw)
 
 https://www.youtube.com/watch?v=xJS9KCVTZYw<br>
